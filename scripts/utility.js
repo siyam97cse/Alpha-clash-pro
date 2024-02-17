@@ -8,6 +8,6 @@ function showElementById(elementId){
 }
 function getARandomAlphabet(){
     const alphabetString = 'abcdefghijklmnopqrstuvwxyz';
-    const alphabets = alphabetString.split('';
+    const alphabets = alphabetString.split('');
     console.log(alphabets);
 }
